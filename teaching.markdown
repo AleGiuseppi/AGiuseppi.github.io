@@ -17,7 +17,7 @@ Master courses:
 
 ### [Master in Management Engineering - Curriculum: Business Intelligence and Analytics](https://www.ingegneriagestionale.uniroma1.it/laureamagistrale)
 
-* Process Identification and Control [(Part 3)] (https://agiuseppi.github.io/teaching/PIC3)
+* Process Identification and Control [(Part 3)](https://agiuseppi.github.io/teaching/PIC3)
 
 ### [Master In Control Engineering (MCER)](http://www.diag.uniroma1.it/automatica/?p=home&l=en)
 
