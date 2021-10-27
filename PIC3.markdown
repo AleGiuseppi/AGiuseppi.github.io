@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /teaching/PIC3
+invisible: True
 ---
 
 # Process Identification and Control - Module 3
