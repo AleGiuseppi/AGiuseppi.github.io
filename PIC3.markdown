@@ -17,7 +17,7 @@ invisible: True
 - Thursday (8:30-10:00), **Room 15** **in san Pietro in Vincoli**: [https://uniroma1.zoom.us/j/6358052362](https://uniroma1.zoom.us/j/6358052362)
 - Friday (8:30-10:00), **Room 15** **in san Pietro in Vincoli**: [https://uniroma1.zoom.us/j/6358052362](https://uniroma1.zoom.us/j/6358052362)
 
-any information or update on zoom rooms will be available here: https://www.ing.uniroma1.it/orario-delle-lezioni-e-aule
+any information or update on zoom rooms will be available [here](https://www.ing.uniroma1.it/orario-delle-lezioni-e-aule)
 
 **Office hours**: Please send me an email to book an appointment on google meet.
 
