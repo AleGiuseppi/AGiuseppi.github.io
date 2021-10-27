@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/PIC3
 invisible: True
+title: Process Identification and Control - Module 3
 ---
 
-## Process Identification and Control - Module 3
-
-   All the official information is available here: [https://corsidilaurea.uniroma1.it/user/13070](https://www.google.com/url?q=https%3A%2F%2Fcorsidilaurea.uniroma1.it%2Fuser%2F13070&sa=D&sntz=1&usg=AFQjCNFU4fzG7J6jjA64FQhMNKF4cyDe6Q)
+-   All the official information is available here: [https://corsidilaurea.uniroma1.it/user/13070](https://www.google.com/url?q=https%3A%2F%2Fcorsidilaurea.uniroma1.it%2Fuser%2F13070&sa=D&sntz=1&usg=AFQjCNFU4fzG7J6jjA64FQhMNKF4cyDe6Q)
     
 -   Main website of the course: [https://sites.google.com/a/uniroma1.it/danielaiacoviello/didattica](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fa%2Funiroma1.it%2Fdanielaiacoviello%2Fdidattica&sa=D&sntz=1&usg=AFQjCNFs0NP3fiVg54gOPgEIJVA1eg0ZlQ)
     
