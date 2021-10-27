@@ -6,14 +6,11 @@ order: 3
 
 ## Assistant Lecturer for the courses:
 
-Corsi triennali:
 ### [Ingegneria Informatica e Automatica (BIAR)](https://corsidilaurea.uniroma1.it/it/corso/2018/29931/home)
 
 * Controlli Automatici ([Prof. Delli Priscoli](http://www.dis.uniroma1.it/~dellipri/ca/))
 
 * Modellistica e Simulazione ([home](https://sites.google.com/a/dis.uniroma1.it/alessandro-di-giorgio/teaching/modellistica-e-simulazione))
-
-Master courses:
 
 ### [Master in Management Engineering - Curriculum: Business Intelligence and Analytics](https://www.ingegneriagestionale.uniroma1.it/laureamagistrale)
 
