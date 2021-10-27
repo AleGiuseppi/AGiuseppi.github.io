@@ -11,7 +11,7 @@ title: Process Identification and Control - Module 3
     
 -   Module 3 schedule: Every **Thursday** and **Friday**, starting **from** **October 28** until the end of the lessons. 
 
-**To join the lessons of Module 2 (for Module 3)**
+**To join the lessons of Module 3**
 
 - Thursday (8:30-10:00), **Room 15** **in san Pietro in Vincoli**: [https://uniroma1.zoom.us/j/6358052362](https://uniroma1.zoom.us/j/6358052362)
 - Friday (8:30-10:00), **Room 15** **in san Pietro in Vincoli**: [https://uniroma1.zoom.us/j/6358052362](https://uniroma1.zoom.us/j/6358052362)
