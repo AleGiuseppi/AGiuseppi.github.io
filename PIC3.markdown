@@ -27,7 +27,9 @@ any information or update on zoom rooms will be available [here](https://www.ing
 - Reinforcement Learning, examples
 - Introduction to Keras and Gym programming for process control tasks
 
-**LECTURE PRESENTATIONS** **(WILL BE UPDATED DURING THE COURSE)**
+**LECTURE PRESENTATIONS** **(available on google classroom)**
 
 **DIARY OF THE LESSONS AND SUGGESTED READINGS** **(WILL BE UPDATED DURING THE COURSE)**
+Lecture 1 - introduction to the module, introduction to ML problems
+Lecture 2 - Introduction to Deep Learning and ML models
 
