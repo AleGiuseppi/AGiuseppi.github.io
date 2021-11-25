@@ -34,5 +34,5 @@ any information or update on zoom rooms will be available [here](https://www.ing
 - Lecture 2 - Introduction to Deep Learning and ML models. Classification and regression. 
 - Lectures 3-4 - Training, capacity, underfitting, overfitting. Feedforward NNs, Convolutional NNs, Recurrent NNs. 
 - Lecture 5-6 - Examples, introduction to Keras.
-- Lecture 7-8 - Regularization, Transfer Learning, Federated Learning and examples.
+- Lecture 7-9 - Regularization, Transfer Learning, Federated Learning and examples.
 
