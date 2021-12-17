@@ -23,17 +23,14 @@ any information or update on zoom rooms will be available [here](https://www.ing
 **Program** - Module 3
 - Introduction to Machine Learning problems in Process Identification and Control
 - Introduction to Deep Learning
+- CNN, RNNs, applications to computer vision tasks and NLP
 - Markov Decision Processes, examples
+- Value Functions
 - Reinforcement Learning, examples
+- Q-Learning
+- introduction to DeepRL, DQN, DDPG
 - Introduction to Keras and Gym programming for process control tasks
 
 **LECTURE PRESENTATIONS** **(available on google classroom)**
 
-**DIARY OF THE LESSONS AND SUGGESTED READINGS** **(WILL BE UPDATED DURING THE COURSE)**
-- Lecture 1 - introduction to the module, introduction to ML problems
-- Lecture 2 - Introduction to Deep Learning and ML models. Classification and regression. 
-- Lectures 3-4 - Training, capacity, underfitting, overfitting. Feedforward NNs, Convolutional NNs, Recurrent NNs. 
-- Lecture 5-6 - Examples, introduction to Keras.
-- Lecture 7-9 - Regularization, Transfer Learning, Federated Learning and examples.
-- Lecture 10 - Introduction to RL, MDP
 
