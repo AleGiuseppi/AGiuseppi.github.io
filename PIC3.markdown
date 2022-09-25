@@ -32,5 +32,3 @@ any information or update on zoom rooms will be available [here](https://www.ing
 - Introduction to Keras and Gym programming for process control tasks
 
 **LECTURE PRESENTATIONS** **(available on google classroom)**
-
-
