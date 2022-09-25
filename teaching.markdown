@@ -18,6 +18,8 @@ order: 3
 
 **[Master In Control Engineering (MCER)](http://www.diag.uniroma1.it/automatica/?p=home&l=en)**
 
+* [Intelligent and Hybrid Control](https://agiuseppi.github.io/teaching/IHC)
+
 * Control of Communication and Energy Networks 
 
 * Control of Multi-Agent Systems
