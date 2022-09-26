@@ -9,8 +9,8 @@ title: Intelligent and Hybrid Control
    
 **IMPORTANT NEWS: WE ARE AWARE OF A PROBLEM REGARDING THE POSSIBILITY OF SELECTING THIS EXAM IN YOUR STUDY PROGRAMME**
 
-We are working on a fix, in the meantime you may contact me (giuseppi@diag.uniroma1.it) for any questions.
-Any student that faced this issue will be able to change the study programme and select this exam.
+We are working on a fix. In the meantime you may contact me (giuseppi@diag.uniroma1.it) for any questions.
+Any student that has faced this issue will be able to change the study programme and select this exam.
    
 **Schedule**: The course will be active starting from the second semester of the academic year 2022/2023. 
 A more detailed scheduling is TBA. 
