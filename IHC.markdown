@@ -18,7 +18,7 @@ A more detailed scheduling is TBA.
 The course is organized in two modules: the first deals with the design of the so-called intelligent control systems, whereas the second will cover hybrid systems.
 My classes will cover the first module, whereas Prof. Luca Benvenuti will teach the second module.
 
-Intelligent Control Systems is a class of controllers based on data-driven techniques such as deep learning and reinforcement learning. 
+Intelligent Control Systems are a class of controllers based on data-driven techniques such as deep learning and reinforcement learning. 
 
 The course will present both the role of machine learning in control systems, discussing its methodologies, potential and applications, and the design of control systems based on artificial intelligence techniques. 
 
