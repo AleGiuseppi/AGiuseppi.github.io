@@ -8,7 +8,7 @@ title: Intelligent and Hybrid Control
 [//]: # (-   All the official information is available here: [https://corsidilaurea.uniroma1.it/user/13070](https://www.google.com/url?q=https%3A%2F%2Fcorsidilaurea.uniroma1.it%2Fuser%2F13070&sa=D&sntz=1&usg=AFQjCNFU4fzG7J6jjA64FQhMNKF4cyDe6Q) )
    
 **IMPORTANT NEWS: WE ARE AWARE OF A PROBLEM REGARDING THE POSSIBILITY OF SELECTING THIS EXAM IN YOUR STUDY PROGRAMME**
-We are working on a fix, in the meantime you may contact me (giuseppi@diag.uniroma1.it) for any question.
+We are working on a fix, in the meantime you may contact me (giuseppi@diag.uniroma1.it) for any questions.
 Any student that faced this issue will be able to change the study programme and select this exam.
    
 **Schedule**: The course will be active starting from the second semester of the academic year 2022/2023. 
