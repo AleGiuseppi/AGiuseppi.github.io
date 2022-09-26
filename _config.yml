@@ -47,6 +47,7 @@ thumbsurl: "/images/"
 
 gems:
   - jekyll-font-awesome-sass
+  - jekyll-remote-theme
 
 nav_ext_links:
   - name: DIAG
