@@ -57,7 +57,7 @@ nav_ext_links:
     url: https://www.crat.eu
 
 
-remote_theme: academic
+theme: academic
 plugins:
   - jekyll-feed
   - jekyll-scholar
