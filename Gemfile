@@ -5,6 +5,7 @@ gem 'redcarpet'
 gem "kramdown-parser-gfm"
 gem 'jekyll-academicons-svg'
 gem 'jekyll-fontawesome-svg'
+gem 'academic', '~> 0.5.8'
 
 
 group :jekyll_plugins do
